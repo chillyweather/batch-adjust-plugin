@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "b.adjust",
+  "name": "b.adjust",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
